@@ -20,7 +20,7 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
           test_freq = 20,
           gpu = 0):
     ii = 0
-    for itr in range(1, args.niters + 1):
+    for itr in range(1, niters + 1):
         optimizer.zero_grad()
         batch_y0, batch_t, batch_y = train_loader()
         pred_y = ode_propogator(model, batch_y0, batch_t)
@@ -28,7 +28,7 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
         loss.backward()
         optimizer.step()
 
-        if itr % args.test_freq == 0:
+        if itr % test_freq == 0:
             with torch.no_grad():
                 pred_y = odeint(model, true_y0, t)
                 loss = torch.mean(torch.abs(pred_y - true_y))
