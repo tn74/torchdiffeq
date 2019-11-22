@@ -33,8 +33,7 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
 
         if itr % test_freq == 0:
             with torch.no_grad():
-                pred_y = odeint(model, bath_y0, t)
-                loss = torch.mean(torch.abs(pred_y - true_y))
+                loss = torch.mean(torch.abs(pred_y - batch_y))
                 print('Iter {:04d} | Total Loss {:.6f}'.format(itr, loss.item()))
                 ii += 1
 
