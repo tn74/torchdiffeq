@@ -11,8 +11,8 @@ import torchvision.datasets as datasets
 import torchvision.transforms as transforms
 import math
 
-from torchdiffeq import odeint_adjoint
-from torchdiffeq import odeint
+from .torchdiffeq import odeint_adjoint
+from .torchdiffeq import odeint
 
 
 def train(model, train_loader, optimizer, ode_propogator=odeint,
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     model = ODEFunc()
     train_loader = get_batch
     optimizer = optim.Adam(model.parameters(), lr=1e-3)
-    train(model, train_loader, optimizer)
+    train(model, train_loader, odeint, optimizer)
 
 
 
