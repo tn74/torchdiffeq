@@ -18,8 +18,7 @@ from torchdiffeq import odeint
 def train(model, train_loader, ode_propogator, optimizer,
           niters = 1000,
           test_freq = 20,
-          gpu = 0,
-          adjoint = 0):
+          gpu = 0):
     ii = 0
     for itr in range(1, args.niters + 1):
         optimizer.zero_grad()
