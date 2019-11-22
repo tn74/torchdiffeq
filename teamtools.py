@@ -15,7 +15,7 @@ from torchdiffeq import odeint_adjoint
 from torchdiffeq import odeint
 
 
-def train(model, train_loader, ode_propogator, optimizer,
+def train(model, train_loader, optimizer, ode_propogator=odeint,
           niters = 1000,
           test_freq = 20,
           gpu = 0):
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     model = ODEFunc()
     train_loader = get_batch
     optimizer = optim.Adam(model.parameters(), lr=1e-3)
-    train(model, train_loader, odeint, optimizer)
+    train(model, train_loader, optimizer)
 
 
 
