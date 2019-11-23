@@ -49,7 +49,8 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
                 ii += 1
 
 def visualize_2d(t, true_y0, true_y, model):
-    pred_y = odeint(model, true_y0, t).detach()
+    with torch.no_grad():
+        pred_y = odeint(model, true_y0, t).detach()
     fig = plt.figure(figsize=(12, 4), facecolor='white')
     ax_traj = fig.add_subplot(131, frameon=False)
     ax_phase = fig.add_subplot(132, frameon=False)
