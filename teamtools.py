@@ -10,6 +10,8 @@ from torch.utils.data import DataLoader
 import torchvision.datasets as datasets
 import torchvision.transforms as transforms
 import math
+import matplotlib.pyplot as plt
+
 
 if __name__ != "__main__":
     from .torchdiffeq import odeint_adjoint
@@ -17,6 +19,15 @@ if __name__ != "__main__":
 else:
     from torchdiffeq import odeint_adjoint
     from torchdiffeq import odeint
+
+
+class ODEModule(nn.Module):
+    def __init__(self, net):
+        self.super().__init__()
+        self.net = net
+
+    def forward(self, t, y):
+        return self.net(y)
 
 def train(model, train_loader, optimizer, ode_propogator=odeint,
           niters = 1000,
@@ -36,6 +47,51 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
                 loss = torch.mean(torch.abs(pred_y - batch_y))
                 print('Iter {:04d} | Total Loss {:.6f}'.format(itr, loss.item()))
                 ii += 1
+
+def visualize_2d(t, true_y0, true_y, model):
+    pred_y = odeint(model, true_y0, t)
+    fig = plt.figure(figsize=(12, 4), facecolor='white')
+    ax_traj = fig.add_subplot(131, frameon=False)
+    ax_phase = fig.add_subplot(132, frameon=False)
+    ax_vecfield = fig.add_subplot(133, frameon=False)
+
+    ax_traj.cla()
+    ax_traj.set_title('Trajectories')
+    ax_traj.set_xlabel('t')
+    ax_traj.set_ylabel('x,y')
+    ax_traj.plot(t.numpy(), true_y.numpy()[:, 0, 0], t.numpy(), true_y.numpy()[:, 0, 1], 'g-', label="True")
+    ax_traj.plot(t.numpy(), pred_y.numpy()[:, 0, 0], '--', t.numpy(), pred_y.numpy()[:, 0, 1], 'b--', label="Pred")
+    ax_traj.set_xlim(t.min(), t.max())
+    ax_traj.set_ylim(-2, 2)
+    ax_traj.legend()
+
+    ax_phase.cla()
+    ax_phase.set_title('Phase Portrait')
+    ax_phase.set_xlabel('x')
+    ax_phase.set_ylabel('y')
+    ax_phase.plot(true_y.numpy()[:, 0, 0], true_y.numpy()[:, 0, 1], 'g-')
+    ax_phase.plot(pred_y.numpy()[:, 0, 0], pred_y.numpy()[:, 0, 1], 'b--')
+    ax_phase.set_xlim(-2, 2)
+    ax_phase.set_ylim(-2, 2)
+
+    ax_vecfield.cla()
+    ax_vecfield.set_title('Learned Vector Field')
+    ax_vecfield.set_xlabel('x')
+    ax_vecfield.set_ylabel('y')
+
+    y, x = np.mgrid[-2:2:21j, -2:2:21j]
+    dydt = model(0, torch.Tensor(np.stack([x, y], -1).reshape(21 * 21, 2))).cpu().detach().numpy()
+    mag = np.sqrt(dydt[:, 0]**2 + dydt[:, 1]**2).reshape(-1, 1)
+    dydt = (dydt / mag)
+    dydt = dydt.reshape(21, 21, 2)
+
+    ax_vecfield.streamplot(x, y, dydt[:, :, 0], dydt[:, :, 1], color="black")
+    ax_vecfield.set_xlim(-2, 2)
+    ax_vecfield.set_ylim(-2, 2)
+    fig.tight_layout()
+    return fig
+    # plt.draw()
+    # plt.pause(0.1)
 
 if __name__ == "__main__":
     class Config:
