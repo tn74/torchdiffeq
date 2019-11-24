@@ -228,14 +228,25 @@ def one_hot(x, K):
 
 def accuracy(model, dataset_loader):
     total_correct = 0
-    for x, y in dataset_loader:
+    num_of_batches = len(dataset_loader)
+    index = 0
+    for  x, y in dataset_loader:
+        ## Only run 1/6 the batches. 
+        print(index)
+        if (index == 1):
+            break
         x = x.to(device)
-        y = one_hot(np.array(y.numpy()), 10)
+        y = y.to(device)
+        y = y.reshape(len(y), 1)
+        # NUMBER OF DIFFERENT CLASSES
+        num_classes = 10
+        y = (y == torch.arange(num_classes).reshape(1, num_classes)).float()
+        target_class = torch.argmax(y, dim=1)
+        predicted_class = torch.argmax(model(x), dim=1)
+        total_correct += torch.sum(predicted_class == target_class)
+        index+=1
 
-        target_class = np.argmax(y, axis=1)
-        predicted_class = np.argmax(model(x).cpu().detach().numpy(), axis=1)
-        total_correct += np.sum(predicted_class == target_class)
-    return total_correct / len(dataset_loader.dataset)
+    return total_correct / len(dataset_loader.dataset)/6
 
 
 def count_parameters(model):
@@ -323,6 +334,8 @@ if __name__ == '__main__':
         decay_rates=[1, 0.1, 0.01, 0.001]
     )
 
+    # logger.info("Finished loading data")
+
     optimizer = torch.optim.SGD(model.parameters(), lr=args.lr, momentum=0.9)
 
     best_acc = 0
@@ -330,6 +343,8 @@ if __name__ == '__main__':
     f_nfe_meter = RunningAverageMeter()
     b_nfe_meter = RunningAverageMeter()
     end = time.time()
+
+    # logger.info("Starting train loop")
 
     for itr in range(args.nepochs * batches_per_epoch):
 
@@ -355,22 +370,40 @@ if __name__ == '__main__':
             feature_layers[0].nfe = 0
 
         batch_time_meter.update(time.time() - end)
+
         if is_odenet:
             f_nfe_meter.update(nfe_forward)
             b_nfe_meter.update(nfe_backward)
         end = time.time()
 
-        if itr % batches_per_epoch == 0:
-            with torch.no_grad():
+        # if itr % batches_per_epoch == 0:
+        with torch.no_grad():
+
+            # Reset accuracies
+            train_acc = 0
+            val_acc = 0
+
+            # Calculate accuracy for every 1/4 of an epoch. 
+            if (itr % (args.batch_size/4) == 0):
                 train_acc = accuracy(model, train_eval_loader)
                 val_acc = accuracy(model, test_loader)
-                if val_acc > best_acc:
-                    torch.save({'state_dict': model.state_dict(), 'args': args}, os.path.join(args.save, 'model.pth'))
-                    best_acc = val_acc
-                logger.info(
-                    "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f} | "
-                    "Train Acc {:.4f} | Test Acc {:.4f}".format(
-                        itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
-                        b_nfe_meter.avg, train_acc, val_acc
-                    )
+
+            if val_acc > best_acc:
+                logger.info("Model saved at iteration: ", itr)
+                torch.save({'state_dict': model.state_dict(), 'args': args}, os.path.join(args.save, 'model.pth'))
+                best_acc = val_acc
+
+            logger.info(
+                "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f}".format(
+                    itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
+                    b_nfe_meter.avg
                 )
+            )
+
+            # logger.info(
+            #     "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f} | "
+            #     "Train Acc {:.4f} | Test Acc {:.4f}".format(
+            #         itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
+            #         b_nfe_meter.avg, train_acc, val_acc
+            #     )
+            # )
