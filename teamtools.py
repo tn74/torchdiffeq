@@ -22,6 +22,7 @@ else:
 
 
 class ODEModule(nn.Module):
+    """Useless really"""
     def __init__(self, net):
         self.super().__init__()
         self.net = net
@@ -30,9 +31,10 @@ class ODEModule(nn.Module):
         return self.net(y)
 
 def train(model, train_loader, optimizer, ode_propogator=odeint,
-          niters = 1000,
-          test_freq = 20,
-          gpu = 0):
+      niters = 1000,
+      test_freq = 20,
+      ):
+    """Given a model (function that takes in arguments (t, y_n)) return y_n+1"""
     ii = 0
     for itr in range(1, niters + 1):
         optimizer.zero_grad()
@@ -49,6 +51,8 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
                 ii += 1
 
 def visualize_2d(t, true_y0, true_y, model):
+    """Given ODE initial conditions for a 2D time series vector,
+    the real output and the model we are visualizing, return a matplotlib figure visualizing the model"""
     with torch.no_grad():
         pred_y = odeint(model, true_y0, t).detach()
     fig = plt.figure(figsize=(12, 4), facecolor='white')
@@ -91,8 +95,6 @@ def visualize_2d(t, true_y0, true_y, model):
     ax_vecfield.set_ylim(-2, 2)
     fig.tight_layout()
     return fig
-    # plt.draw()
-    # plt.pause(0.1)
 
 if __name__ == "__main__":
     class Config:
