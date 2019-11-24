@@ -21,15 +21,6 @@ else:
     from torchdiffeq import odeint
 
 
-class ODEModule(nn.Module):
-    """Useless really"""
-    def __init__(self, net):
-        self.super().__init__()
-        self.net = net
-
-    def forward(self, t, y):
-        return self.net(y)
-
 def train(model, train_loader, optimizer, ode_propogator=odeint,
       niters = 1000,
       test_freq = 20,
@@ -52,6 +43,42 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
                 loss = torch.mean(torch.abs(pred_y - batch_y))
                 print('Iter {:04d} | Total Loss {:.6f}'.format(itr, loss.item()))
                 ii += 1
+
+
+class TruthSampler():
+  def __init__(self, dataset, batch_time, batch_size):
+    """ Sample dataset train method provided in teamtools
+
+    dataset - torch.Tensor shape = (# of samples, length of a sample, *(shape of single datapoint))
+    batch_time - how long should the evolution be for a training sample in the batch
+    batch_size - how many evolutions go in a single batch?
+    """
+    self.dataset = dataset
+    sz = dataset.size()
+    self.sample_count, self.sim_size, self.dp_size = sz[0], sz[1], sz[2:]
+    if len(self.dp_size) == 1:
+      self.dp_size = tuple([1] + list(self.dp_size))
+    self.t = torch.linspace(1, self.sim_size, self.sim_size)
+    self.batch_time = batch_time
+    self.batch_size = batch_size
+
+  def sample(self):
+    start_ind = np.random.choice(
+        np.arange(self.sim_size - self.batch_time, dtype=np.int64),
+        self.batch_size,
+        )
+    sample_ind = np.random.choice(
+        np.arange(self.sample_count, dtype=np.int64),
+        self.batch_size
+        )
+    ret = []
+    for sample_index, start_index in zip(sample_ind, start_ind):
+      ret.append(self.dataset[sample_index, start_index: start_index + self.batch_time])
+    batch_y = torch.stack(ret).transpose(0, 1)
+    batch_y0 = batch_y[0].reshape(self.batch_size, *self.dp_size)
+    batch_t = t[:self.batch_time]
+    return batch_y0, batch_t, batch_y
+
 
 def visualize_2d(t, true_y0, true_y, model):
     """Given ODE initial conditions for a 2D time series vector,
@@ -98,6 +125,7 @@ def visualize_2d(t, true_y0, true_y, model):
     ax_vecfield.set_ylim(-2, 2)
     fig.tight_layout()
     return fig
+
 
 if __name__ == "__main__":
     class Config:
