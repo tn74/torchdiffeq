@@ -76,7 +76,7 @@ class TruthSampler():
       ret.append(self.dataset[sample_index, start_index: start_index + self.batch_time])
     batch_y = torch.stack(ret).transpose(0, 1)
     batch_y0 = batch_y[0].reshape(self.batch_size, *self.dp_size)
-    batch_t = t[:self.batch_time]
+    batch_t = self.t[:self.batch_time]
     return batch_y0, batch_t, batch_y
 
 
