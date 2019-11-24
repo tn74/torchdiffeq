@@ -323,6 +323,8 @@ if __name__ == '__main__':
         decay_rates=[1, 0.1, 0.01, 0.001]
     )
 
+    logger.info("Finished loading data")
+
     optimizer = torch.optim.SGD(model.parameters(), lr=args.lr, momentum=0.9)
 
     best_acc = 0
@@ -330,6 +332,8 @@ if __name__ == '__main__':
     f_nfe_meter = RunningAverageMeter()
     b_nfe_meter = RunningAverageMeter()
     end = time.time()
+
+    logger.info("Starting train loop")
 
     for itr in range(args.nepochs * batches_per_epoch):
 
@@ -355,22 +359,32 @@ if __name__ == '__main__':
             feature_layers[0].nfe = 0
 
         batch_time_meter.update(time.time() - end)
+
         if is_odenet:
             f_nfe_meter.update(nfe_forward)
             b_nfe_meter.update(nfe_backward)
         end = time.time()
 
-        if itr % batches_per_epoch == 0:
-            with torch.no_grad():
-                train_acc = accuracy(model, train_eval_loader)
-                val_acc = accuracy(model, test_loader)
-                if val_acc > best_acc:
-                    torch.save({'state_dict': model.state_dict(), 'args': args}, os.path.join(args.save, 'model.pth'))
-                    best_acc = val_acc
-                logger.info(
-                    "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f} | "
-                    "Train Acc {:.4f} | Test Acc {:.4f}".format(
-                        itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
-                        b_nfe_meter.avg, train_acc, val_acc
-                    )
+        # if itr % batches_per_epoch == 0:
+        with torch.no_grad():
+            # train_acc = accuracy(model, train_eval_loader)
+            # val_acc = accuracy(model, test_loader)
+
+            # if val_acc > best_acc:
+            #     torch.save({'state_dict': model.state_dict(), 'args': args}, os.path.join(args.save, 'model.pth'))
+            #     best_acc = val_acc
+
+            logger.info(
+                "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f}".format(
+                    itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
+                    b_nfe_meter.avg
                 )
+            )
+
+            # logger.info(
+            #     "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f} | "
+            #     "Train Acc {:.4f} | Test Acc {:.4f}".format(
+            #         itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
+            #         b_nfe_meter.avg, train_acc, val_acc
+            #     )
+            # )
