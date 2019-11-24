@@ -46,7 +46,7 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
 
 
 class TruthSampler():
-  def __init__(self, dataset, batch_time, batch_size):
+  def __init__(self, t, dataset, batch_time, batch_size):
     """ Sample dataset train method provided in teamtools
 
     dataset - torch.Tensor shape = (# of samples, length of a sample, *(shape of single datapoint))
@@ -58,7 +58,7 @@ class TruthSampler():
     self.sample_count, self.sim_size, self.dp_size = sz[0], sz[1], sz[2:]
     if len(self.dp_size) == 1:
       self.dp_size = tuple([1] + list(self.dp_size))
-    self.t = torch.linspace(1, self.sim_size, self.sim_size)
+    self.t = t
     self.batch_time = batch_time
     self.batch_size = batch_size
 
