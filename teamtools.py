@@ -34,7 +34,10 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
       niters = 1000,
       test_freq = 20,
       ):
-    """Given a model (function that takes in arguments (t, y_n)) return y_n+1"""
+    """
+    Given a model (function that takes in arguments (t, y_n) and returns y_n+1), train the weights of n+1 according to training samples provided by
+    train_loader
+    """
     ii = 0
     for itr in range(1, niters + 1):
         optimizer.zero_grad()
