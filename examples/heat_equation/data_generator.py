@@ -57,11 +57,3 @@ T0 = [40, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 20]
 heat_source_idxs = set([0, 2, 11])
 heat_eqn_inst1_2 = heatequation1D_2(L=0.1, T0=T0, hsi=heat_source_idxs, dx=0.01, alpha=0.0001, t_final=100, dt=0.1)
 heat_eqn_inst1_y1_2 = heat_eqn_inst1_2.generate_data()
-
-
-
-
-
-
-
-
