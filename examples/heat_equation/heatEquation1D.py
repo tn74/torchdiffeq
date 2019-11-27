@@ -6,13 +6,14 @@ import matplotlib.pyplot as plt
 
 class heatequation1D():
 	data = None
-	def __init__(self, L, hsi, T0, room_temp, dx, alpha, t_final, dt):
+	def __init__(self, L=0.1, hsi=set([0,2]), T0=[40,0,30], room_temp=3, dx=0.01, alpha=0.0001, t_final=50, dt=0.1):
 		"""
         Construct a new 'headequation1D' object.
 
         :param L: Length of rod
         :param hsi: the indexes of the heat sources on the rod. 
         :param T0: Initial temperatures.
+        :param room_temp: Room temperature. 
         :param dx: Distance between two discrete points on rod.
         :param alpha: Temperature transfer constant of rod (Based on material)
         :param t_final: Final time
@@ -64,3 +65,5 @@ T0 = [40, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 20]
 heat_source_idxs = set([0, 2, 11])
 heat_eqn_inst1_2 = heatequation1D_2(L=0.1, T0=T0, room_temp=0 hsi=heat_source_idxs, dx=0.01, alpha=0.0001, t_final=100, dt=0.1)
 heat_eqn_inst1_y1_2 = heat_eqn_inst1_2.generate_data()
+
+
