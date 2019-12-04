@@ -26,19 +26,56 @@ else:
 
 device = torch.device('cuda:' + str(args.gpu) if torch.cuda.is_available() else 'cpu')
 
-true_y0 = torch.tensor([[2., 0.]])
 t = torch.linspace(0., 25., args.data_size)
 true_A = torch.tensor([[-0.1, 2.0], [-2.0, -0.1]])
 
 
+
 class Lambda(nn.Module):
+    count = 0;
 
     def forward(self, t, y):
+        self.count+=1
+        print(self.count)
         return torch.mm(y**3, true_A)
 
+class HeatModel1D(nn.Module):
+    x_square = 0
+    alpha = 0
+    left_bound = 0
+    right_bound = 0
 
+    def __init__(self, x=.01, alpha=.0001, left_bound=0, right_bound=0):
+        super().__init__()
+        self.x_square = x*x
+        self.alpha = alpha
+        self.left_bound = left_bound
+        self.count = 0
+        self.right_bound = right_bound
+
+    def singleDimDelta(self,t0,t1,t2):
+        return self.alpha*(-(t1-t0)/self.x_square**2 + (t2 - t1)/self.x_square**2)
+
+    def forward(self,t,y):
+        self.count+=1
+        if (self.count % 1000==0):
+            print(self.count)
+        n = len(y)
+        dTdt = np.empty(100)
+        for i in range(1, n-1):
+            dTdt[i] = self.singleDimDelta(y[i-1], y[i], y[i+1])
+        dTdt[0] = self.singleDimDelta(self.left_bound, y[0], y[1])
+        dTdt[n-1] = self.singleDimDelta(y[n-2], y[n-1], self.right_bound)
+        return torch.from_numpy(dTdt)
+
+true_y0 = torch.from_numpy(np.random.normal(0, 0.1, 100))
 with torch.no_grad():
-    true_y = odeint(Lambda(), true_y0, t, method='dopri5')
+    true_y = odeint(HeatModel1D(.01, .0001, 40, 20), true_y0, t, method='dopri5')
+
+# true_y0 = torch.tensor([[2., 0.]])
+# with torch.no_grad():
+#     true_y = odeint(Lambda(), true_y0, t, method='dopri5')
+#     print("True y shape: ", true_y.shape)
 
 
 def get_batch():
@@ -47,6 +84,7 @@ def get_batch():
     batch_t = t[:args.batch_time]  # (T)
     batch_y = torch.stack([true_y[s + i] for i in range(args.batch_time)], dim=0)  # (T, M, D)
     return batch_y0, batch_t, batch_y
+
 
 
 def makedirs(dirname):

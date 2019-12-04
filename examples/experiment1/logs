@@ -13871,3 +13871,1891 @@ Epoch 0000 | Time 14.196 (8.866) | NFE-F 25.2 | NFE-B 0.0
 Epoch 0000 | Time 12.905 (8.906) | NFE-F 25.1 | NFE-B 0.0
 Epoch 0000 | Time 112.749 (9.945) | NFE-F 25.5 | NFE-B 0.0
 Epoch 0000 | Time 11.070 (9.956) | NFE-F 25.4 | NFE-B 0.0
+Epoch 0000 | Time 9.922 (9.955) | NFE-F 25.4 | NFE-B 0.0
+Epoch 0000 | Time 9.891 (9.955) | NFE-F 25.3 | NFE-B 0.0
+Epoch 0000 | Time 10.744 (9.963) | NFE-F 25.3 | NFE-B 0.0
+Epoch 0000 | Time 12.353 (9.987) | NFE-F 25.2 | NFE-B 0.0
+Epoch 0000 | Time 18.653 (10.073) | NFE-F 25.2 | NFE-B 0.0
+Epoch 0000 | Time 11.871 (10.091) | NFE-F 25.1 | NFE-B 0.0
+Epoch 0000 | Time 11.680 (10.107) | NFE-F 25.1 | NFE-B 0.0
+Epoch 0000 | Time 11.852 (10.125) | NFE-F 25.0 | NFE-B 0.0
+Epoch 0000 | Time 12.689 (10.150) | NFE-F 25.0 | NFE-B 0.0
+Epoch 0000 | Time 11.657 (10.165) | NFE-F 24.9 | NFE-B 0.0
+Epoch 0000 | Time 12.618 (10.190) | NFE-F 24.9 | NFE-B 0.0
+Epoch 0000 | Time 13.169 (10.220) | NFE-F 24.8 | NFE-B 0.0
+Epoch 0000 | Time 11.648 (10.234) | NFE-F 24.8 | NFE-B 0.0
+Epoch 0000 | Time 13.706 (10.269) | NFE-F 24.7 | NFE-B 0.0
+Epoch 0000 | Time 11.536 (10.281) | NFE-F 24.7 | NFE-B 0.0
+Epoch 0000 | Time 11.563 (10.294) | NFE-F 24.6 | NFE-B 0.0
+Epoch 0000 | Time 11.158 (10.303) | NFE-F 24.6 | NFE-B 0.0
+Epoch 0000 | Time 11.233 (10.312) | NFE-F 24.5 | NFE-B 0.0
+Epoch 0000 | Time 29.041 (10.499) | NFE-F 24.5 | NFE-B 0.0
+Epoch 0000 | Time 12.227 (10.517) | NFE-F 24.4 | NFE-B 0.0
+Epoch 0000 | Time 12.259 (10.534) | NFE-F 24.4 | NFE-B 0.0
+Epoch 0000 | Time 11.716 (10.546) | NFE-F 24.4 | NFE-B 0.0
+Epoch 0000 | Time 11.825 (10.559) | NFE-F 24.3 | NFE-B 0.0
+Epoch 0000 | Time 11.149 (10.565) | NFE-F 24.3 | NFE-B 0.0
+Epoch 0000 | Time 11.313 (10.572) | NFE-F 24.2 | NFE-B 0.0
+Epoch 0000 | Time 11.345 (10.580) | NFE-F 24.2 | NFE-B 0.0
+Epoch 0000 | Time 11.667 (10.591) | NFE-F 24.1 | NFE-B 0.0
+Epoch 0000 | Time 14.428 (10.629) | NFE-F 24.1 | NFE-B 0.0
+Epoch 0000 | Time 5.051 (10.573) | NFE-F 24.1 | NFE-B 0.0
+Epoch 0000 | Time 4.288 (10.510) | NFE-F 24.0 | NFE-B 0.0
+Epoch 0000 | Time 1110.167 (21.507) | NFE-F 24.4 | NFE-B 0.0
+Epoch 0000 | Time 4.344 (21.335) | NFE-F 24.3 | NFE-B 0.0
+Epoch 0000 | Time 4.326 (21.165) | NFE-F 24.3 | NFE-B 0.0
+Epoch 0000 | Time 4.442 (20.998) | NFE-F 24.3 | NFE-B 0.0
+Epoch 0000 | Time 4.445 (20.832) | NFE-F 24.2 | NFE-B 0.0
+Epoch 0000 | Time 187.383 (22.498) | NFE-F 24.2 | NFE-B 0.0
+Epoch 0000 | Time 4.161 (22.315) | NFE-F 24.1 | NFE-B 0.0
+Epoch 0000 | Time 4.197 (22.133) | NFE-F 24.1 | NFE-B 0.0
+Epoch 0000 | Time 483.855 (26.751) | NFE-F 24.0 | NFE-B 0.0
+Epoch 0000 | Time 4.532 (26.528) | NFE-F 24.0 | NFE-B 0.0
+Epoch 0000 | Time 4.290 (26.306) | NFE-F 24.0 | NFE-B 0.0
+Epoch 0000 | Time 4.442 (26.087) | NFE-F 23.9 | NFE-B 0.0
+Epoch 0000 | Time 4.430 (25.871) | NFE-F 23.9 | NFE-B 0.0
+Epoch 0000 | Time 4.435 (25.656) | NFE-F 23.8 | NFE-B 0.0
+Epoch 0000 | Time 4.441 (25.444) | NFE-F 23.8 | NFE-B 0.0
+Epoch 0000 | Time 4.480 (25.235) | NFE-F 23.8 | NFE-B 0.0
+Epoch 0000 | Time 4.426 (25.027) | NFE-F 23.7 | NFE-B 0.0
+Epoch 0000 | Time 4.423 (24.821) | NFE-F 23.7 | NFE-B 0.0
+Epoch 0000 | Time 4.502 (24.617) | NFE-F 23.7 | NFE-B 0.0
+Epoch 0000 | Time 451.015 (28.881) | NFE-F 23.6 | NFE-B 0.0
+Epoch 0000 | Time 4.209 (28.635) | NFE-F 23.6 | NFE-B 0.0
+Epoch 0000 | Time 4.172 (28.390) | NFE-F 23.5 | NFE-B 0.0
+Epoch 0000 | Time 4.244 (28.149) | NFE-F 23.5 | NFE-B 0.0
+Epoch 0000 | Time 4.298 (27.910) | NFE-F 23.5 | NFE-B 0.0
+Epoch 0000 | Time 4.307 (27.674) | NFE-F 23.4 | NFE-B 0.0
+Epoch 0000 | Time 4.276 (27.440) | NFE-F 23.4 | NFE-B 0.0
+Epoch 0000 | Time 4.406 (27.210) | NFE-F 23.4 | NFE-B 0.0
+Epoch 0000 | Time 4.440 (26.982) | NFE-F 23.3 | NFE-B 0.0
+Epoch 0000 | Time 4.439 (26.757) | NFE-F 23.3 | NFE-B 0.0
+Epoch 0000 | Time 4.875 (26.538) | NFE-F 23.3 | NFE-B 0.0
+Epoch 0000 | Time 4.593 (26.318) | NFE-F 23.2 | NFE-B 0.0
+Epoch 0000 | Time 552.411 (31.579) | NFE-F 23.2 | NFE-B 0.0
+Epoch 0000 | Time 33.380 (31.597) | NFE-F 23.6 | NFE-B 0.0
+Epoch 0000 | Time 4.452 (31.326) | NFE-F 23.5 | NFE-B 0.0
+Epoch 0000 | Time 4.443 (31.057) | NFE-F 23.5 | NFE-B 0.0
+Epoch 0000 | Time 4.417 (30.791) | NFE-F 23.5 | NFE-B 0.0
+Epoch 0000 | Time 416.226 (34.645) | NFE-F 23.4 | NFE-B 0.0
+Epoch 0000 | Time 4.153 (34.340) | NFE-F 23.4 | NFE-B 0.0
+Epoch 0000 | Time 4.169 (34.038) | NFE-F 23.4 | NFE-B 0.0
+Epoch 0000 | Time 4.245 (33.740) | NFE-F 23.3 | NFE-B 0.0
+Epoch 0000 | Time 4.328 (33.446) | NFE-F 23.3 | NFE-B 0.0
+Epoch 0000 | Time 4.267 (33.154) | NFE-F 23.3 | NFE-B 0.0
+Epoch 0000 | Time 4.348 (32.866) | NFE-F 23.2 | NFE-B 0.0
+Epoch 0000 | Time 4.443 (32.582) | NFE-F 23.2 | NFE-B 0.0
+Epoch 0000 | Time 4.403 (32.300) | NFE-F 23.2 | NFE-B 0.0
+Epoch 0000 | Time 4.418 (32.021) | NFE-F 23.1 | NFE-B 0.0
+Epoch 0000 | Time 4.319 (31.744) | NFE-F 23.1 | NFE-B 0.0
+Epoch 0000 | Time 4.434 (31.471) | NFE-F 23.1 | NFE-B 0.0
+Epoch 0000 | Time 266.117 (33.818) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0000 | Time 4.196 (33.522) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0000 | Time 4.190 (33.228) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0000 | Time 4.335 (32.939) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0000 | Time 4.409 (32.654) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0000 | Time 4.399 (32.371) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0000 | Time 4.444 (32.092) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0000 | Time 4.322 (31.815) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 4.298 (31.539) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 4.408 (31.268) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 4.439 (31.000) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 500.333 (35.693) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0000 | Time 4.214 (35.378) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0000 | Time 4.181 (35.066) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0000 | Time 4.175 (34.757) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0000 | Time 4.301 (34.453) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0000 | Time 604.915 (40.157) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0000 | Time 5.450 (39.810) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0000 | Time 6.460 (39.477) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0000 | Time 4.587 (39.128) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0000 | Time 4.544 (38.782) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0000 | Time 4.596 (38.440) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 4.535 (38.101) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 4.427 (37.764) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 4.400 (37.431) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0000 | Time 4.494 (37.101) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0000 | Time 4.482 (36.775) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0000 | Time 555.311 (41.961) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0000 | Time 4.207 (41.583) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0000 | Time 4.189 (41.209) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0000 | Time 4.310 (40.840) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0000 | Time 4.327 (40.475) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0000 | Time 4.423 (40.115) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.400 (39.757) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.428 (39.404) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.322 (39.053) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.260 (38.705) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 4.419 (38.362) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 4.430 (38.023) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 453.651 (42.179) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 4.719 (41.805) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 4.236 (41.429) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.824 (41.063) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.625 (40.699) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.582 (40.338) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.533 (39.979) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.427 (39.624) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.435 (39.272) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 153.200 (40.411) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0000 | Time 4.414 (40.051) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.444 (39.695) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.451 (39.343) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.437 (38.994) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0000 | Time 4.694 (38.651) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 4.449 (38.309) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 518.336 (43.109) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 4.181 (42.720) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0000 | Time 4.178 (42.334) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.249 (41.954) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.306 (41.577) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.292 (41.204) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.364 (40.836) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.404 (40.471) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.408 (40.111) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.353 (39.753) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.463 (39.400) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.471 (39.051) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 152.178 (40.182) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.186 (39.822) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.273 (39.467) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.283 (39.115) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.426 (38.768) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.413 (38.425) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.447 (38.085) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.424 (37.748) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.418 (37.415) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.367 (37.084) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.384 (36.757) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 178.277 (38.173) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.212 (37.833) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 34.003 (37.795) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0000 | Time 4.434 (37.461) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.427 (37.131) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 436.338 (41.123) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.233 (40.754) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.179 (40.388) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0000 | Time 4.247 (40.027) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.291 (39.669) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.347 (39.316) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.405 (38.967) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0000 | Time 4.404 (38.621) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.375 (38.279) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.510 (37.941) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.542 (37.607) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.560 (37.277) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 509.440 (41.998) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.301 (41.621) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.291 (41.248) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.361 (40.879) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.399 (40.514) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.429 (40.154) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.409 (39.796) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.542 (39.444) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.531 (39.095) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.432 (38.748) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.495 (38.405) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 190.319 (39.924) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.502 (39.570) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.297 (39.218) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.284 (38.868) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.391 (38.523) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.427 (38.182) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 94.417 (38.745) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.298 (38.400) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.175 (38.058) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.295 (37.720) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.272 (37.386) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0000 | Time 4.274 (37.055) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.467 (36.729) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.399 (36.406) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.468 (36.086) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.400 (35.769) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.491 (35.457) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 284.693 (37.949) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.387 (37.613) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.188 (37.279) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.329 (36.950) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.933 (36.629) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.850 (36.312) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.698 (35.996) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.582 (35.681) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.560 (35.370) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.519 (35.062) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.586 (34.757) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 240.383 (36.813) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.421 (36.489) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.296 (36.167) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.365 (35.849) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.393 (35.535) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.429 (35.224) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.523 (34.917) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.512 (34.613) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.412 (34.311) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.399 (34.012) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 516.030 (38.832) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.422 (38.488) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0000 | Time 4.440 (38.147) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.379 (37.809) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.306 (37.474) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.367 (37.143) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.407 (36.816) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 610.195 (42.550) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.291 (42.167) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.228 (41.788) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.288 (41.413) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.345 (41.042) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.468 (40.676) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.405 (40.314) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.438 (39.955) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.326 (39.599) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.403 (39.247) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.571 (38.900) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 243.275 (40.944) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.285 (40.577) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.284 (40.214) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.859 (39.861) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.059 (39.513) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.734 (39.165) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.694 (38.820) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.707 (38.479) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.479 (38.149) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 7.302 (37.840) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 240.389 (39.866) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.282 (39.510) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.292 (39.158) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.293 (38.809) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 34.169 (38.763) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 63.351 (39.009) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.290 (38.662) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.262 (38.318) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.311 (37.978) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.407 (37.642) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.387 (37.309) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.479 (36.981) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.526 (36.656) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.697 (36.337) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.516 (36.019) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.598 (35.704) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.536 (35.393) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 467.420 (39.713) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.332 (39.359) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.444 (39.010) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.083 (38.671) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.431 (38.338) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 7.062 (38.026) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.704 (37.702) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.567 (37.381) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.060 (37.058) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.669 (36.734) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 223.291 (38.600) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.360 (38.267) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.373 (37.928) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.387 (37.593) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.416 (37.261) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.385 (36.932) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.538 (36.608) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.523 (36.287) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.426 (35.969) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 534.470 (40.954) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.513 (40.589) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.546 (40.229) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.436 (39.871) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.416 (39.517) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.529 (39.167) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.536 (38.820) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 336.296 (41.795) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.267 (41.420) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.277 (41.048) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.380 (40.682) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.408 (40.319) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.388 (39.960) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.421 (39.604) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.416 (39.252) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.524 (38.905) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.550 (38.562) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.454 (38.221) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 626.419 (44.102) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.333 (43.705) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.302 (43.311) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.347 (42.921) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 5.414 (42.546) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.691 (42.168) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.690 (41.793) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.638 (41.421) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.538 (41.052) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.523 (40.687) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.545 (40.326) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 541.239 (45.335) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.562 (44.927) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.262 (44.520) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 35.206 (44.427) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0000 | Time 4.559 (44.029) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 302.465 (46.613) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.411 (46.191) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.265 (45.772) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.366 (45.358) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.286 (44.947) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.303 (44.540) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.396 (44.139) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.502 (43.743) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.435 (43.350) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.353 (42.960) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.446 (42.574) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.405 (42.193) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 258.160 (44.352) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.285 (43.952) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.291 (43.555) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.412 (43.164) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.401 (42.776) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.361 (42.392) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.420 (42.012) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.468 (41.637) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.460 (41.265) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.528 (40.898) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.578 (40.534) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 300.402 (43.133) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.301 (42.745) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.261 (42.360) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.306 (41.979) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.386 (41.603) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.400 (41.231) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.382 (40.863) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 113.412 (41.588) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.313 (41.216) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0000 | Time 4.403 (40.848) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.399 (40.483) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.997 (40.128) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.696 (39.774) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.516 (39.421) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.557 (39.073) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.542 (38.727) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.541 (38.385) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 164.227 (39.644) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.329 (39.291) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.308 (38.941) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.412 (38.596) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.457 (38.254) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.554 (37.917) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.615 (37.584) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.531 (37.254) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.539 (36.927) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.519 (36.602) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.528 (36.282) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 463.406 (40.553) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.285 (40.190) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.260 (39.831) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.366 (39.476) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.396 (39.126) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.412 (38.778) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.447 (38.435) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.521 (38.096) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.541 (37.760) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0000 | Time 4.405 (37.427) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0000 | Time 4.451 (37.097) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0000 | Time 3632.256 (73.049) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.489 (72.363) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.422 (71.684) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.474 (71.012) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.604 (70.348) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 2345.899 (93.103) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 7.854 (92.251) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 7.046 (91.398) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.715 (90.532) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.783 (89.674) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 5.041 (88.828) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.791 (87.987) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.300 (87.151) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.409 (86.323) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.266 (85.503) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.480 (84.692) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.304 (83.889) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.265 (83.092) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.783 (82.309) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.435 (81.530) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.311 (80.758) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.268 (79.993) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 5.403 (79.247) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 1804.072 (96.496) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.366 (95.574) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.283 (94.661) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.404 (93.759) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.387 (92.865) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.396 (91.980) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.564 (91.106) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0000 | Time 4.628 (90.242) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0000 | Time 4.545 (89.385) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0000 | Time 2301.753 (111.508) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.704 (110.440) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 4.947 (109.385) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 5.407 (108.345) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 5.599 (107.318) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0000 | Time 5.844 (106.303) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 1848.572 (123.726) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.874 (122.537) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.999 (121.362) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.705 (120.196) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.687 (119.040) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.691 (117.897) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0000 | Time 4.625 (116.764) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.538 (115.642) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.516 (114.531) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.548 (113.431) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 4.552 (112.342) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 2443.205 (135.651) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0000 | Time 8.349 (134.378) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.818 (133.082) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.556 (131.797) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.557 (130.524) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.572 (129.265) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.843 (128.021) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.399 (126.784) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.656 (125.563) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.709 (124.355) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.720 (123.158) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.314 (121.970) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 5.007 (120.800) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.591 (119.638) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.520 (118.487) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 49.828 (117.800) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.942 (116.672) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.382 (115.549) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.459 (114.448) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.324 (113.357) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.084 (112.274) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.321 (111.204) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.197 (110.144) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.225 (109.095) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.297 (108.057) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 5.229 (107.029) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.534 (106.004) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.335 (104.987) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.299 (103.980) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.299 (102.984) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.298 (101.997) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.310 (101.020) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.319 (100.053) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.290 (99.095) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.335 (98.148) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.294 (97.209) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.314 (96.280) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.282 (95.360) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.286 (94.449) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.303 (93.548) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.302 (92.656) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.483 (91.774) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 5.053 (90.907) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.325 (90.041) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.318 (89.184) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.365 (88.335) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.643 (87.498) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 33.721 (86.961) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.310 (86.134) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.711 (85.320) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.490 (84.512) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.427 (83.711) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.304 (82.917) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.284 (82.130) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.276 (81.352) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.346 (80.582) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.289 (79.819) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.357 (79.064) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.344 (78.317) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.333 (77.577) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.290 (76.844) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.277 (76.119) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.287 (75.400) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.274 (74.689) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.290 (73.985) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.257 (73.288) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.299 (72.598) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.275 (71.915) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.284 (71.238) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.294 (70.569) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.266 (69.906) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.264 (69.250) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.280 (68.600) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.262 (67.956) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.291 (67.320) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.301 (66.690) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.289 (66.066) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.268 (65.448) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.269 (64.836) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 32.262 (64.510) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.273 (63.908) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.284 (63.311) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.294 (62.721) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.272 (62.137) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.297 (61.558) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.276 (60.986) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.452 (60.420) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.455 (59.861) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.416 (59.306) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.560 (58.759) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.620 (58.217) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.537 (57.681) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.355 (57.147) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.271 (56.618) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.256 (56.095) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.253 (55.576) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.286 (55.064) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.274 (54.556) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.302 (54.053) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.452 (53.557) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.289 (53.064) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.281 (52.577) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.268 (52.094) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.306 (51.616) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.267 (51.142) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.291 (50.674) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.292 (50.210) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.280 (49.751) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.272 (49.296) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.272 (48.845) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.296 (48.400) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 32.616 (48.242) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.333 (47.803) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.296 (47.368) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.316 (46.937) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.300 (46.511) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.280 (46.089) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.292 (45.671) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.290 (45.257) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.270 (44.847) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.366 (44.442) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.310 (44.041) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.319 (43.644) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.293 (43.250) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.295 (42.861) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.314 (42.475) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.272 (42.093) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.298 (41.715) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.274 (41.341) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.289 (40.970) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.277 (40.603) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.276 (40.240) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.291 (39.881) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.280 (39.525) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.304 (39.172) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.286 (38.824) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.320 (38.479) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.276 (38.137) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.279 (37.798) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.309 (37.463) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.279 (37.131) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.331 (36.803) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 4.275 (36.478) | NFE-F 21.1 | NFE-B 0.0
+Epoch 0001 | Time 32.224 (36.435) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.322 (36.114) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.282 (35.796) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.187 (35.480) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.281 (35.168) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.271 (34.859) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.286 (34.553) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.272 (34.250) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.288 (33.951) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.271 (33.654) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.307 (33.360) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.276 (33.070) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.289 (32.782) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.293 (32.497) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.265 (32.215) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.573 (31.938) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.424 (31.663) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.318 (31.390) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.285 (31.119) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.299 (30.850) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 19.106 (30.733) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 5.433 (30.480) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.440 (30.229) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 7.625 (30.003) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 5.547 (29.759) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.563 (29.517) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.617 (29.278) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.006 (29.035) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.800 (28.793) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 595.706 (34.462) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.382 (34.171) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.556 (33.885) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 37.512 (33.921) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 6.627 (33.648) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.549 (33.357) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.670 (33.070) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.647 (32.786) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.540 (32.504) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.578 (32.225) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.551 (31.948) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.672 (31.675) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.697 (31.405) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.578 (31.137) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.554 (30.871) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 6.521 (30.628) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.575 (30.367) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.722 (30.111) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.676 (29.856) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.589 (29.604) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.546 (29.353) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.532 (29.105) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 6.228 (28.876) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 5.842 (28.646) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.052 (28.410) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 104.759 (29.173) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.326 (28.925) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.310 (28.679) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.342 (28.435) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.419 (28.195) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.512 (27.958) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.522 (27.724) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.550 (27.492) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.511 (27.262) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 4.557 (27.035) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0001 | Time 449.624 (31.261) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.940 (30.998) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.775 (30.736) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 7.259 (30.501) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.758 (30.244) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.350 (29.985) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.505 (29.730) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.373 (29.476) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.748 (29.229) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.619 (28.983) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.602 (28.749) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 7.148 (28.533) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 5.837 (28.306) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 6.564 (28.089) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.480 (27.853) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.341 (27.617) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.358 (27.385) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 4.326 (27.154) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.368 (26.926) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.385 (26.701) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.299 (26.477) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.457 (26.267) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 4.325 (26.047) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0001 | Time 5.452 (25.841) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 5.425 (25.637) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0001 | Time 5.472 (25.436) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.660 (25.238) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.379 (25.029) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 5.407 (24.833) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.354 (24.628) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.969 (24.432) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 4.335 (24.231) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 36.390 (24.352) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.333 (24.152) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.396 (23.965) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.446 (23.779) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.407 (23.596) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.430 (23.414) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.393 (23.234) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.447 (23.056) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.408 (22.879) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.441 (22.705) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.438 (22.532) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.403 (22.361) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.433 (22.192) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 5.400 (22.024) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 5.434 (21.858) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 5.401 (21.693) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 5.521 (21.532) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.294 (21.359) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.363 (21.189) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.689 (21.024) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.323 (20.857) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.283 (20.692) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.315 (20.528) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.394 (20.366) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 72.575 (20.889) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 4.489 (20.725) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.261 (20.570) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.274 (20.417) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.926 (20.272) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.333 (20.123) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.816 (19.970) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.944 (19.819) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 41.867 (20.040) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.312 (19.883) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.869 (19.732) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.687 (19.582) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.567 (19.432) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.903 (19.287) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.777 (19.141) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.435 (18.994) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 7.700 (18.881) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 8.025 (18.773) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.415 (18.639) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.350 (18.506) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.484 (18.376) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.698 (18.249) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.744 (18.114) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.632 (17.979) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.704 (17.847) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.649 (17.715) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.633 (17.584) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.632 (17.454) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.588 (17.326) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.634 (17.199) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.697 (17.074) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.680 (16.950) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.680 (16.827) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.693 (16.706) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.664 (16.585) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.610 (16.466) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.583 (16.347) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.772 (16.241) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.060 (16.129) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.213 (16.020) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 38.406 (16.244) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.071 (16.132) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.367 (16.025) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.080 (15.915) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.552 (15.812) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.337 (15.707) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.928 (15.609) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.875 (15.512) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.885 (15.415) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.724 (15.318) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.585 (15.221) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.249 (15.121) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.994 (15.020) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.766 (14.918) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.763 (14.816) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.211 (14.720) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.040 (14.623) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.258 (14.530) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.335 (14.438) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.652 (14.340) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.554 (14.242) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.809 (14.148) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 5.227 (14.058) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 5.246 (13.970) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.769 (13.878) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.738 (13.787) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 5.019 (13.699) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.894 (13.611) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.790 (13.523) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.619 (13.434) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.635 (13.346) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.644 (13.259) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 35.762 (13.484) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.736 (13.396) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.557 (13.308) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.809 (13.223) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.107 (13.142) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.952 (13.060) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.660 (12.976) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.718 (12.893) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.670 (12.811) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 4.725 (12.730) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.780 (12.651) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.854 (12.573) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.883 (12.496) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.925 (12.420) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.813 (12.344) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0001 | Time 4.842 (12.269) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.720 (12.194) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.889 (12.121) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.734 (12.047) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 5.075 (11.977) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 5.060 (11.908) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0001 | Time 4.649 (11.835) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.880 (11.766) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 5.079 (11.699) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 5.279 (11.635) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.938 (11.568) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.679 (11.499) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 5.788 (11.442) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.848 (11.376) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.961 (11.312) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 5.141 (11.250) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0001 | Time 4.947 (11.187) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0001 | Time 41.885 (11.494) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.633 (11.425) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.685 (11.358) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.853 (11.303) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.902 (11.249) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.920 (11.195) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.948 (11.143) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.984 (11.091) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 6.261 (11.043) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 6.182 (10.995) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 5.594 (10.941) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 5.565 (10.887) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.643 (10.824) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.679 (10.763) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.865 (10.704) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0001 | Time 4.665 (10.644) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.945 (10.587) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.754 (10.528) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 5.125 (10.474) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.970 (10.419) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 4.681 (10.362) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.795 (10.306) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.852 (10.252) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.710 (10.196) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.847 (10.153) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.128 (10.102) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.425 (10.056) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.685 (10.002) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 4.640 (9.948) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0001 | Time 5.787 (9.907) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 5.817 (9.866) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0001 | Time 6.108 (9.828) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0001 | Time 43.403 (10.164) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 5.845 (10.121) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 5.807 (10.078) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 5.794 (10.035) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 5.780 (9.992) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 5.788 (9.950) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 5.757 (9.908) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 5.791 (9.867) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 5.743 (9.826) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.646 (9.774) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 5.935 (9.736) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 5.464 (9.693) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 5.497 (9.651) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 5.426 (9.609) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0001 | Time 5.514 (9.568) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0001 | Time 5.867 (9.531) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0001 | Time 4.384 (9.479) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0001 | Time 4.321 (9.428) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0001 | Time 4.302 (9.376) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.338 (9.326) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.317 (9.276) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.326 (9.226) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.311 (9.177) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 4.348 (9.129) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 4.296 (9.081) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 4.298 (9.033) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.354 (8.986) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.457 (8.941) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.919 (8.901) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.635 (8.858) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.668 (8.816) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.584 (8.774) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 36.540 (9.051) | NFE-F 23.0 | NFE-B 0.0
+Epoch 0001 | Time 4.613 (9.007) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.675 (8.964) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.573 (8.920) | NFE-F 22.9 | NFE-B 0.0
+Epoch 0001 | Time 4.617 (8.877) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 4.569 (8.834) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 5.296 (8.798) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 6.779 (8.778) | NFE-F 22.8 | NFE-B 0.0
+Epoch 0001 | Time 4.738 (8.738) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.587 (8.696) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.640 (8.656) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 5.716 (8.626) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.670 (8.587) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 5.721 (8.558) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.597 (8.518) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 5.765 (8.491) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.592 (8.452) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.559 (8.413) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.614 (8.375) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.534 (8.337) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.706 (8.300) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.638 (8.264) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.598 (8.227) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.633 (8.191) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.594 (8.155) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.647 (8.120) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0001 | Time 4.594 (8.085) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.597 (8.050) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.622 (8.016) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.578 (7.981) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0001 | Time 4.574 (7.947) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 4.692 (7.915) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0001 | Time 35.123 (8.187) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 4.670 (8.151) | NFE-F 22.7 | NFE-B 0.0
+Epoch 0001 | Time 6.208 (8.132) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 5.032 (8.101) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 6.177 (8.082) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.832 (8.049) | NFE-F 22.6 | NFE-B 0.0
+Epoch 0001 | Time 4.537 (8.014) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0002 | Time 4.789 (7.982) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0002 | Time 4.687 (7.949) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0002 | Time 4.654 (7.916) | NFE-F 22.5 | NFE-B 0.0
+Epoch 0002 | Time 4.662 (7.883) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0002 | Time 4.628 (7.851) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0002 | Time 4.616 (7.819) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0002 | Time 4.583 (7.786) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0002 | Time 4.899 (7.757) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 4.617 (7.726) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 5.413 (7.703) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 7.361 (7.699) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 6.140 (7.684) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 5.168 (7.659) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 5.524 (7.637) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 5.186 (7.613) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 5.223 (7.589) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.564 (7.559) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.965 (7.533) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.806 (7.505) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.826 (7.479) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.886 (7.453) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 5.508 (7.433) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.949 (7.408) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.082 (7.385) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.360 (7.365) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 36.380 (7.655) | NFE-F 22.4 | NFE-B 0.0
+Epoch 0002 | Time 4.976 (7.628) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 4.865 (7.601) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 4.809 (7.573) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 5.149 (7.548) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 4.768 (7.521) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.684 (7.492) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.613 (7.464) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.828 (7.437) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.730 (7.410) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.618 (7.382) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.457 (7.353) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.543 (7.325) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.651 (7.298) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.518 (7.270) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.601 (7.254) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 5.820 (7.239) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.562 (7.212) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.493 (7.185) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.697 (7.160) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 5.826 (7.147) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 5.703 (7.133) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.612 (7.107) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.802 (7.084) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.669 (7.060) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.759 (7.037) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 5.080 (7.018) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.669 (6.994) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.558 (6.970) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.557 (6.946) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.546 (6.922) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.725 (6.900) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 34.528 (7.176) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 4.451 (7.149) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 4.704 (7.124) | NFE-F 22.3 | NFE-B 0.0
+Epoch 0002 | Time 4.401 (7.097) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.348 (7.070) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.511 (7.044) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.474 (7.018) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 4.630 (6.994) | NFE-F 22.2 | NFE-B 0.0
+Epoch 0002 | Time 5.047 (6.975) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.597 (6.951) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.740 (6.929) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.712 (6.907) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.773 (6.885) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.638 (6.863) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.966 (6.844) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.681 (6.822) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.529 (6.799) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.731 (6.779) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.500 (6.756) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.362 (6.732) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.358 (6.708) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.327 (6.685) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.444 (6.662) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.474 (6.640) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.567 (6.619) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.582 (6.599) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.707 (6.580) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.319 (6.558) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.486 (6.537) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.589 (6.517) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.409 (6.496) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.492 (6.476) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 35.971 (6.771) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.639 (6.750) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.737 (6.730) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 6.423 (6.727) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 6.860 (6.728) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.804 (6.709) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.874 (6.690) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.806 (6.672) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.898 (6.654) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.786 (6.635) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 5.116 (6.620) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.804 (6.602) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.738 (6.583) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.677 (6.564) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.610 (6.545) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.646 (6.526) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.540 (6.506) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.629 (6.487) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.686 (6.469) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.550 (6.450) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.576 (6.431) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.554 (6.412) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.563 (6.394) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.613 (6.376) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.557 (6.358) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.640 (6.341) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.530 (6.322) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.546 (6.305) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.549 (6.287) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.525 (6.270) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.582 (6.253) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.584 (6.236) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 34.357 (6.517) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.717 (6.499) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.768 (6.482) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.672 (6.464) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.638 (6.445) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.852 (6.430) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.567 (6.411) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.605 (6.393) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.717 (6.376) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.958 (6.362) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.807 (6.356) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 10.740 (6.400) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.019 (6.386) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.551 (6.368) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.783 (6.352) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.693 (6.346) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.722 (6.339) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.019 (6.326) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.802 (6.311) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 9.393 (6.342) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.891 (6.327) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.847 (6.312) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.607 (6.295) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.741 (6.280) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.624 (6.263) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.577 (6.246) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.690 (6.231) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 5.997 (6.229) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.700 (6.213) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.574 (6.197) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.555 (6.180) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.682 (6.165) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 35.535 (6.459) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.603 (6.441) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.684 (6.423) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.573 (6.405) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 6.040 (6.401) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 5.803 (6.395) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 5.864 (6.390) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 5.987 (6.386) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 5.792 (6.380) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 5.859 (6.374) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 6.491 (6.376) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.831 (6.370) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 4.585 (6.352) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.562 (6.334) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.491 (6.316) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.559 (6.298) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.537 (6.281) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.681 (6.265) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.657 (6.249) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.728 (6.233) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.594 (6.217) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.627 (6.201) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.717 (6.186) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.640 (6.171) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.733 (6.156) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.681 (6.142) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.591 (6.126) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 5.041 (6.115) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 5.387 (6.108) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.219 (6.099) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.000 (6.088) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 6.047 (6.088) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 43.752 (6.464) | NFE-F 22.1 | NFE-B 0.0
+Epoch 0002 | Time 5.497 (6.455) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.560 (6.446) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.577 (6.437) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.507 (6.428) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.254 (6.416) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.989 (6.412) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 8.204 (6.430) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 6.769 (6.433) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 8.270 (6.452) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.680 (6.434) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 5.077 (6.420) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 7.007 (6.426) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 5.060 (6.412) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.299 (6.391) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.542 (6.373) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 7.613 (6.385) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 7.674 (6.398) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 7.161 (6.406) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 6.742 (6.409) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 5.691 (6.402) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 6.693 (6.405) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 5.768 (6.398) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 7.048 (6.405) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.041 (6.391) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.721 (6.375) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.750 (6.358) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.501 (6.340) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.473 (6.321) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.430 (6.302) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.461 (6.284) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.080 (6.272) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 36.553 (6.575) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.328 (6.552) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.334 (6.530) | NFE-F 22.0 | NFE-B 0.0
+Epoch 0002 | Time 4.354 (6.508) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.314 (6.486) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.361 (6.465) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.308 (6.443) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.333 (6.422) | NFE-F 21.9 | NFE-B 0.0
+Epoch 0002 | Time 4.310 (6.401) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.334 (6.381) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.309 (6.360) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.325 (6.339) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.524 (6.321) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.347 (6.302) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.374 (6.282) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.319 (6.263) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.350 (6.244) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.330 (6.224) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.314 (6.205) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.371 (6.187) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.308 (6.168) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.603 (6.152) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.501 (6.146) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.237 (6.137) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.590 (6.121) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.634 (6.107) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.686 (6.092) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.524 (6.077) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.313 (6.059) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.505 (6.043) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.804 (6.031) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.646 (6.017) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 37.816 (6.335) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.525 (6.317) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.643 (6.300) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.513 (6.283) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.555 (6.265) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.593 (6.249) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.807 (6.234) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.554 (6.217) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.572 (6.201) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.526 (6.184) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.705 (6.169) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.813 (6.156) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.565 (6.140) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.515 (6.124) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.334 (6.116) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.701 (6.102) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.525 (6.086) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.563 (6.071) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.629 (6.056) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.520 (6.041) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.588 (6.026) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.557 (6.012) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.509 (5.997) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.622 (5.983) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.567 (5.969) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.571 (5.955) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.761 (5.943) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.641 (5.930) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.723 (5.918) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.758 (5.906) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.610 (5.893) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.887 (5.883) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 32.660 (6.151) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.502 (6.134) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.739 (6.120) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.600 (6.105) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.658 (6.091) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.606 (6.076) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.594 (6.061) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.721 (6.048) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.769 (6.035) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.852 (6.023) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.536 (6.008) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.500 (5.993) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.732 (5.980) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.678 (5.967) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.621 (5.954) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.812 (5.943) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.355 (5.927) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.352 (5.911) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.420 (5.896) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.788 (5.885) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.907 (5.875) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.541 (5.862) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.501 (5.848) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.347 (5.833) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.606 (5.821) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.618 (5.809) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.527 (5.796) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.638 (5.784) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.590 (5.773) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.684 (5.762) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.599 (5.750) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.766 (5.740) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 38.322 (6.066) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.931 (6.055) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.414 (6.038) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.577 (6.024) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.967 (6.013) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.732 (6.000) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.447 (5.985) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.427 (5.969) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.670 (5.956) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.519 (5.942) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.363 (5.926) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.558 (5.912) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.711 (5.900) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.630 (5.888) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.390 (5.873) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.460 (5.859) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.365 (5.844) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.351 (5.829) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.317 (5.814) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.340 (5.799) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.470 (5.786) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.749 (5.775) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.949 (5.767) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.313 (5.752) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.465 (5.739) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.939 (5.731) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.673 (5.721) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.670 (5.710) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.619 (5.699) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.734 (5.690) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 4.577 (5.679) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 4.325 (5.665) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 33.837 (5.947) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.804 (5.935) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.716 (5.923) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.068 (5.915) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.829 (5.904) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.883 (5.894) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.900 (5.884) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.790 (5.873) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.805 (5.862) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 5.802 (5.862) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.789 (5.851) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.744 (5.840) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 5.058 (5.832) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.377 (5.817) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.465 (5.804) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.956 (5.795) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.517 (5.783) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.744 (5.772) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.909 (5.764) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 5.431 (5.760) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.956 (5.752) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.704 (5.742) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.429 (5.729) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.509 (5.716) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.589 (5.705) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.363 (5.692) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 4.951 (5.684) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 4.901 (5.676) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 4.674 (5.666) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 4.735 (5.657) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 4.699 (5.648) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 6.112 (5.652) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0002 | Time 40.671 (6.002) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.847 (5.991) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 6.321 (5.994) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.842 (5.993) | NFE-F 21.8 | NFE-B 0.0
+Epoch 0002 | Time 4.786 (5.980) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.860 (5.969) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.687 (5.956) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 5.507 (5.952) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.557 (5.938) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.699 (5.926) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.481 (5.911) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.525 (5.897) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.518 (5.884) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.488 (5.870) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.493 (5.856) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.506 (5.842) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.500 (5.829) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.918 (5.820) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.818 (5.810) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.482 (5.796) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.539 (5.784) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.459 (5.771) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.618 (5.759) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.540 (5.747) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.596 (5.735) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.529 (5.723) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.574 (5.712) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.565 (5.700) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.604 (5.689) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 5.322 (5.686) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 9.118 (5.720) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 7.929 (5.742) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 34.891 (6.034) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.486 (6.018) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.568 (6.004) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.497 (5.989) | NFE-F 21.7 | NFE-B 0.0
+Epoch 0002 | Time 4.518 (5.974) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.472 (5.959) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.519 (5.944) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.484 (5.930) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.653 (5.917) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.764 (5.906) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.382 (5.890) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.632 (5.878) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.807 (5.867) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.511 (5.853) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 5.579 (5.851) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.414 (5.836) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.306 (5.821) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.400 (5.807) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 5.582 (5.805) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.382 (5.790) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.620 (5.779) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.950 (5.770) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 5.139 (5.764) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 6.782 (5.774) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 5.689 (5.773) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.535 (5.761) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 5.301 (5.756) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.612 (5.745) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.955 (5.737) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 5.145 (5.731) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 5.062 (5.724) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 5.243 (5.720) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 44.514 (6.108) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.733 (6.104) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.731 (6.090) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.643 (6.076) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 5.408 (6.069) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.594 (6.054) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0002 | Time 4.572 (6.039) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 5.032 (6.029) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 5.215 (6.021) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 5.453 (6.016) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.533 (6.001) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.587 (5.987) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.682 (5.974) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0002 | Time 4.278 (5.957) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.885 (5.946) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.713 (5.934) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.607 (5.920) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.592 (5.907) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.890 (5.897) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.572 (5.884) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0002 | Time 4.729 (5.872) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.713 (5.860) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.701 (5.849) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.706 (5.837) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.612 (5.825) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.606 (5.813) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0002 | Time 4.726 (5.802) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 5.107 (5.795) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 4.706 (5.784) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 5.057 (5.777) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 4.775 (5.767) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 4.751 (5.757) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 41.846 (6.118) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 4.811 (6.105) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 4.724 (6.091) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 5.244 (6.082) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 4.885 (6.070) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.278 (6.062) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 4.893 (6.051) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.096 (6.041) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 4.648 (6.027) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 4.608 (6.013) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 4.597 (5.999) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.637 (5.985) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.639 (5.972) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.732 (5.959) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.830 (5.948) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.847 (5.937) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.612 (5.924) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 6.111 (5.926) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.565 (5.912) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.621 (5.899) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 5.137 (5.892) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.761 (5.880) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.697 (5.868) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.645 (5.856) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 5.394 (5.852) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.790 (5.841) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.692 (5.829) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.858 (5.820) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.840 (5.810) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.986 (5.802) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 5.646 (5.800) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 4.865 (5.791) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 39.031 (6.123) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 4.684 (6.109) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 4.921 (6.097) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 5.098 (6.087) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 5.152 (6.078) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.623 (6.073) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.179 (6.064) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.442 (6.058) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.094 (6.048) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 4.987 (6.038) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.334 (6.031) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 5.422 (6.025) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 5.015 (6.014) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 5.003 (6.004) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.898 (5.993) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.686 (5.980) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.917 (5.970) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 4.994 (5.960) | NFE-F 21.4 | NFE-B 0.0
+Epoch 0003 | Time 5.060 (5.951) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 5.416 (5.945) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 5.284 (5.939) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.952 (5.929) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.919 (5.919) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 5.337 (5.913) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 6.214 (5.916) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 5.283 (5.910) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.776 (5.898) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.780 (5.887) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.882 (5.877) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.971 (5.868) | NFE-F 21.3 | NFE-B 0.0
+Epoch 0003 | Time 4.917 (5.859) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 4.808 (5.848) | NFE-F 21.2 | NFE-B 0.0
+Epoch 0003 | Time 41.366 (6.203) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 4.868 (6.190) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 5.032 (6.178) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 5.107 (6.168) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 4.813 (6.154) | NFE-F 21.6 | NFE-B 0.0
+Epoch 0003 | Time 5.077 (6.143) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.059 (6.132) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 4.880 (6.120) | NFE-F 21.5 | NFE-B 0.0
+Epoch 0003 | Time 5.133 (6.110) | NFE-F 21.5 | NFE-B 0.0
+/Users/gouthamc/virtualenvs/ece590_proj/torchdiffeq/examples/odenet_mnist.py
+import os
+import argparse
+import logging
+import time
+import numpy as np
+import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader
+import torchvision.datasets as datasets
+import torchvision.transforms as transforms
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--network', type=str, choices=['resnet', 'odenet'], default='odenet')
+parser.add_argument('--tol', type=float, default=1e-3)
+parser.add_argument('--adjoint', type=eval, default=False, choices=[True, False])
+parser.add_argument('--downsampling-method', type=str, default='conv', choices=['conv', 'res'])
+parser.add_argument('--nepochs', type=int, default=160)
+parser.add_argument('--data_aug', type=eval, default=True, choices=[True, False])
+parser.add_argument('--lr', type=float, default=0.1)
+parser.add_argument('--batch_size', type=int, default=128)
+parser.add_argument('--test_batch_size', type=int, default=1000)
+
+parser.add_argument('--save', type=str, default='./experiment1')
+parser.add_argument('--debug', action='store_true')
+parser.add_argument('--gpu', type=int, default=0)
+args = parser.parse_args()
+
+if args.adjoint:
+    from torchdiffeq import odeint_adjoint as odeint
+else:
+    from torchdiffeq import odeint
+
+
+def conv3x3(in_planes, out_planes, stride=1):
+    """3x3 convolution with padding"""
+    return nn.Conv2d(in_planes, out_planes, kernel_size=3, stride=stride, padding=1, bias=False)
+
+
+def conv1x1(in_planes, out_planes, stride=1):
+    """1x1 convolution"""
+    return nn.Conv2d(in_planes, out_planes, kernel_size=1, stride=stride, bias=False)
+
+
+def norm(dim):
+    return nn.GroupNorm(min(32, dim), dim)
+
+
+class ResBlock(nn.Module):
+    expansion = 1
+
+    def __init__(self, inplanes, planes, stride=1, downsample=None):
+        super(ResBlock, self).__init__()
+        self.norm1 = norm(inplanes)
+        self.relu = nn.ReLU(inplace=True)
+        self.downsample = downsample
+        self.conv1 = conv3x3(inplanes, planes, stride)
+        self.norm2 = norm(planes)
+        self.conv2 = conv3x3(planes, planes)
+
+    def forward(self, x):
+        shortcut = x
+
+        out = self.relu(self.norm1(x))
+
+        if self.downsample is not None:
+            shortcut = self.downsample(out)
+
+        out = self.conv1(out)
+        out = self.norm2(out)
+        out = self.relu(out)
+        out = self.conv2(out)
+
+        return out + shortcut
+
+
+class ConcatConv2d(nn.Module):
+
+    def __init__(self, dim_in, dim_out, ksize=3, stride=1, padding=0, dilation=1, groups=1, bias=True, transpose=False):
+        super(ConcatConv2d, self).__init__()
+        module = nn.ConvTranspose2d if transpose else nn.Conv2d
+        self._layer = module(
+            dim_in + 1, dim_out, kernel_size=ksize, stride=stride, padding=padding, dilation=dilation, groups=groups,
+            bias=bias
+        )
+
+    def forward(self, t, x):
+        tt = torch.ones_like(x[:, :1, :, :]) * t
+        ttx = torch.cat([tt, x], 1)
+        return self._layer(ttx)
+
+
+class ODEfunc(nn.Module):
+
+    def __init__(self, dim):
+        super(ODEfunc, self).__init__()
+        self.norm1 = norm(dim)
+        self.relu = nn.ReLU(inplace=True)
+        self.conv1 = ConcatConv2d(dim, dim, 3, 1, 1)
+        self.norm2 = norm(dim)
+        self.conv2 = ConcatConv2d(dim, dim, 3, 1, 1)
+        self.norm3 = norm(dim)
+        self.nfe = 0
+
+    def forward(self, t, x):
+        self.nfe += 1
+        out = self.norm1(x)
+        out = self.relu(out)
+        out = self.conv1(t, out)
+        out = self.norm2(out)
+        out = self.relu(out)
+        out = self.conv2(t, out)
+        out = self.norm3(out)
+        return out
+
+
+class ODEBlock(nn.Module):
+
+    def __init__(self, odefunc):
+        super(ODEBlock, self).__init__()
+        self.odefunc = odefunc
+        self.integration_time = torch.tensor([0, 1]).float()
+
+    def forward(self, x):
+        self.integration_time = self.integration_time.type_as(x)
+        out = odeint(self.odefunc, x, self.integration_time, rtol=args.tol, atol=args.tol)
+        return out[1]
+
+    @property
+    def nfe(self):
+        return self.odefunc.nfe
+
+    @nfe.setter
+    def nfe(self, value):
+        self.odefunc.nfe = value
+
+
+class Flatten(nn.Module):
+
+    def __init__(self):
+        super(Flatten, self).__init__()
+
+    def forward(self, x):
+        shape = torch.prod(torch.tensor(x.shape[1:])).item()
+        return x.view(-1, shape)
+
+
+class RunningAverageMeter(object):
+    """Computes and stores the average and current value"""
+
+    def __init__(self, momentum=0.99):
+        self.momentum = momentum
+        self.reset()
+
+    def reset(self):
+        self.val = None
+        self.avg = 0
+
+    def update(self, val):
+        if self.val is None:
+            self.avg = val
+        else:
+            self.avg = self.avg * self.momentum + val * (1 - self.momentum)
+        self.val = val
+
+
+def get_mnist_loaders(data_aug=False, batch_size=128, test_batch_size=1000, perc=1.0):
+    if data_aug:
+        transform_train = transforms.Compose([
+            transforms.RandomCrop(28, padding=4),
+            transforms.ToTensor(),
+        ])
+    else:
+        transform_train = transforms.Compose([
+            transforms.ToTensor(),
+        ])
+
+    transform_test = transforms.Compose([
+        transforms.ToTensor(),
+    ])
+
+    train_loader = DataLoader(
+        datasets.MNIST(root='.data/mnist', train=True, download=True, transform=transform_train), batch_size=batch_size,
+        shuffle=True, num_workers=2, drop_last=True
+    )
+
+    train_eval_loader = DataLoader(
+        datasets.MNIST(root='.data/mnist', train=True, download=True, transform=transform_test),
+        batch_size=test_batch_size, shuffle=False, num_workers=2, drop_last=True
+    )
+
+    test_loader = DataLoader(
+        datasets.MNIST(root='.data/mnist', train=False, download=True, transform=transform_test),
+        batch_size=test_batch_size, shuffle=False, num_workers=2, drop_last=True
+    )
+
+    return train_loader, test_loader, train_eval_loader
+
+
+def inf_generator(iterable):
+    """Allows training with DataLoaders in a single infinite loop:
+        for i, (x, y) in enumerate(inf_generator(train_loader)):
+    """
+    iterator = iterable.__iter__()
+    while True:
+        try:
+            yield iterator.__next__()
+        except StopIteration:
+            iterator = iterable.__iter__()
+
+
+def learning_rate_with_decay(batch_size, batch_denom, batches_per_epoch, boundary_epochs, decay_rates):
+    initial_learning_rate = args.lr * batch_size / batch_denom
+
+    boundaries = [int(batches_per_epoch * epoch) for epoch in boundary_epochs]
+    vals = [initial_learning_rate * decay for decay in decay_rates]
+
+    def learning_rate_fn(itr):
+        lt = [itr < b for b in boundaries] + [True]
+        i = np.argmax(lt)
+        return vals[i]
+
+    return learning_rate_fn
+
+
+def one_hot(x, K):
+    return np.array(x[:, None] == np.arange(K)[None, :], dtype=int)
+
+
+def accuracy(model, dataset_loader):
+    total_correct = 0
+    num_of_batches = len(dataset_loader)
+    index = 0
+    for  x, y in dataset_loader:
+        ## Only run 1/6 the batches. 
+        print(index)
+        if (index == 1):
+            break
+        x = x.to(device)
+        y = y.to(device)
+        y = y.reshape(len(y), 1)
+        # NUMBER OF DIFFERENT CLASSES
+        num_classes = 10
+        y = (y == torch.arange(num_classes).reshape(1, num_classes)).float()
+        target_class = torch.argmax(y, dim=1)
+        predicted_class = torch.argmax(model(x), dim=1)
+        total_correct += torch.sum(predicted_class == target_class)
+        index+=1
+
+    return total_correct / len(dataset_loader.dataset)/6
+
+
+def count_parameters(model):
+    return sum(p.numel() for p in model.parameters() if p.requires_grad)
+
+
+def makedirs(dirname):
+    if not os.path.exists(dirname):
+        os.makedirs(dirname)
+
+
+def get_logger(logpath, filepath, package_files=[], displaying=True, saving=True, debug=False):
+    logger = logging.getLogger()
+    if debug:
+        level = logging.DEBUG
+    else:
+        level = logging.INFO
+    logger.setLevel(level)
+    if saving:
+        info_file_handler = logging.FileHandler(logpath, mode="a")
+        info_file_handler.setLevel(level)
+        logger.addHandler(info_file_handler)
+    if displaying:
+        console_handler = logging.StreamHandler()
+        console_handler.setLevel(level)
+        logger.addHandler(console_handler)
+    logger.info(filepath)
+    with open(filepath, "r") as f:
+        logger.info(f.read())
+
+    for f in package_files:
+        logger.info(f)
+        with open(f, "r") as package_f:
+            logger.info(package_f.read())
+
+    return logger
+
+
+if __name__ == '__main__':
+
+    makedirs(args.save)
+    logger = get_logger(logpath=os.path.join(args.save, 'logs'), filepath=os.path.abspath(__file__))
+    logger.info(args)
+
+    device = torch.device('cuda:' + str(args.gpu) if torch.cuda.is_available() else 'cpu')
+
+    is_odenet = args.network == 'odenet'
+
+    if args.downsampling_method == 'conv':
+        downsampling_layers = [
+            nn.Conv2d(1, 64, 3, 1),
+            norm(64),
+            nn.ReLU(inplace=True),
+            nn.Conv2d(64, 64, 4, 2, 1),
+            norm(64),
+            nn.ReLU(inplace=True),
+            nn.Conv2d(64, 64, 4, 2, 1),
+        ]
+    elif args.downsampling_method == 'res':
+        downsampling_layers = [
+            nn.Conv2d(1, 64, 3, 1),
+            ResBlock(64, 64, stride=2, downsample=conv1x1(64, 64, 2)),
+            ResBlock(64, 64, stride=2, downsample=conv1x1(64, 64, 2)),
+        ]
+
+    feature_layers = [ODEBlock(ODEfunc(64))] if is_odenet else [ResBlock(64, 64) for _ in range(6)]
+    fc_layers = [norm(64), nn.ReLU(inplace=True), nn.AdaptiveAvgPool2d((1, 1)), Flatten(), nn.Linear(64, 10)]
+
+    model = nn.Sequential(*downsampling_layers, *feature_layers, *fc_layers).to(device)
+
+    logger.info(model)
+    logger.info('Number of parameters: {}'.format(count_parameters(model)))
+
+    criterion = nn.CrossEntropyLoss().to(device)
+
+    train_loader, test_loader, train_eval_loader = get_mnist_loaders(
+        args.data_aug, args.batch_size, args.test_batch_size
+    )
+
+    data_gen = inf_generator(train_loader)
+    batches_per_epoch = len(train_loader)
+
+    lr_fn = learning_rate_with_decay(
+        args.batch_size, batch_denom=128, batches_per_epoch=batches_per_epoch, boundary_epochs=[60, 100, 140],
+        decay_rates=[1, 0.1, 0.01, 0.001]
+    )
+
+    # logger.info("Finished loading data")
+
+    optimizer = torch.optim.SGD(model.parameters(), lr=args.lr, momentum=0.9)
+
+    best_acc = 0
+    batch_time_meter = RunningAverageMeter()
+    f_nfe_meter = RunningAverageMeter()
+    b_nfe_meter = RunningAverageMeter()
+    end = time.time()
+
+    # logger.info("Starting train loop")
+
+    for itr in range(args.nepochs * batches_per_epoch):
+
+        for param_group in optimizer.param_groups:
+            param_group['lr'] = lr_fn(itr)
+
+        optimizer.zero_grad()
+        x, y = data_gen.__next__()
+        x = x.to(device)
+        y = y.to(device)
+        logits = model(x)
+        loss = criterion(logits, y)
+
+        if is_odenet:
+            nfe_forward = feature_layers[0].nfe
+            feature_layers[0].nfe = 0
+
+        loss.backward()
+        optimizer.step()
+
+        if is_odenet:
+            nfe_backward = feature_layers[0].nfe
+            feature_layers[0].nfe = 0
+
+        batch_time_meter.update(time.time() - end)
+
+        if is_odenet:
+            f_nfe_meter.update(nfe_forward)
+            b_nfe_meter.update(nfe_backward)
+        end = time.time()
+
+        # if itr % batches_per_epoch == 0:
+        with torch.no_grad():
+
+            # Reset accuracies
+            train_acc = 0
+            val_acc = 0
+
+            # Calculate accuracy for every 1/4 of an epoch. 
+            if (itr % (args.batch_size/4) == 0):
+                train_acc = accuracy(model, train_eval_loader)
+                val_acc = accuracy(model, test_loader)
+
+            if val_acc > best_acc:
+                logger.info("Model saved at iteration: ", itr)
+                torch.save({'state_dict': model.state_dict(), 'args': args}, os.path.join(args.save, 'model.pth'))
+                best_acc = val_acc
+
+            logger.info(
+                "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f}".format(
+                    itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
+                    b_nfe_meter.avg
+                )
+            )
+
+            # logger.info(
+            #     "Epoch {:04d} | Time {:.3f} ({:.3f}) | NFE-F {:.1f} | NFE-B {:.1f} | "
+            #     "Train Acc {:.4f} | Test Acc {:.4f}".format(
+            #         itr // batches_per_epoch, batch_time_meter.val, batch_time_meter.avg, f_nfe_meter.avg,
+            #         b_nfe_meter.avg, train_acc, val_acc
+            #     )
+            # )
+
+Namespace(adjoint=False, batch_size=128, data_aug=True, debug=False, downsampling_method='conv', gpu=0, lr=0.1, nepochs=160, network='odenet', save='./experiment1', test_batch_size=1000, tol=0.001)
+Sequential(
+  (0): Conv2d(1, 64, kernel_size=(3, 3), stride=(1, 1))
+  (1): GroupNorm(32, 64, eps=1e-05, affine=True)
+  (2): ReLU(inplace=True)
+  (3): Conv2d(64, 64, kernel_size=(4, 4), stride=(2, 2), padding=(1, 1))
+  (4): GroupNorm(32, 64, eps=1e-05, affine=True)
+  (5): ReLU(inplace=True)
+  (6): Conv2d(64, 64, kernel_size=(4, 4), stride=(2, 2), padding=(1, 1))
+  (7): ODEBlock(
+    (odefunc): ODEfunc(
+      (norm1): GroupNorm(32, 64, eps=1e-05, affine=True)
+      (relu): ReLU(inplace=True)
+      (conv1): ConcatConv2d(
+        (_layer): Conv2d(65, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      )
+      (norm2): GroupNorm(32, 64, eps=1e-05, affine=True)
+      (conv2): ConcatConv2d(
+        (_layer): Conv2d(65, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      )
+      (norm3): GroupNorm(32, 64, eps=1e-05, affine=True)
+    )
+  )
+  (8): GroupNorm(32, 64, eps=1e-05, affine=True)
+  (9): ReLU(inplace=True)
+  (10): AdaptiveAvgPool2d(output_size=(1, 1))
+  (11): Flatten()
+  (12): Linear(in_features=64, out_features=10, bias=True)
+)
+Number of parameters: 208266
