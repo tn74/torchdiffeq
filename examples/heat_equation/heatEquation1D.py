@@ -11,7 +11,7 @@ class heatequation1D():
         Construct a new 'headequation1D' object.
 
         :param L: Length of rod
-        :param hsi: the indexes of the heat sources on the rod. 
+        :param hsi: the indexes of the heat sources on the rod.
         :param T0: Initial temperatures.
         :param room_temp: Room temperature. 
         :param dx: Distance between two discrete points on rod.
@@ -49,7 +49,7 @@ class heatequation1D():
 				# If rod's position isn't heat-source, temperature will change.
 				else:
 					dTdt[i] = self.singleDimDelta(T[i-1], T[i], T[i+1])
-			# If left bound of rod isn't heat source, use room temperature as left bound. 
+			# If left bound of rod isn't heat source, use room temperature as left bound.
 			if 0 not in self.hsi:
 				dTdt[0] = self.singleDimDelta(self.room_temp, T[0], T[1])
 			# If right bound of rod isn't heat source, use room temperature as right bound. 
