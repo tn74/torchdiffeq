@@ -21,7 +21,7 @@ class heatequation1D():
         :return: returns nothing
         """
 		self.L = L
-		self.hsi = heat_source_idxs
+		self.hsi = hsi
 		self.T0 = T0
 		self.room_temp = 0
 		self.dx = dx
@@ -53,8 +53,8 @@ class heatequation1D():
 			if 0 not in self.hsi:
 				dTdt[0] = self.singleDimDelta(self.room_temp, T[0], T[1])
 			# If right bound of rod isn't heat source, use room temperature as right bound. 
-			if n-1 not in self.hsi:
-				dTdt[n-1] = self.singleDimDelta(T[n-2], T[n-1], self.room_temp)
+			if self.n-1 not in self.hsi:
+				dTdt[self.n-1] = self.singleDimDelta(T[self.n-2], T[self.n-1], self.room_temp)
 			T = T + dTdt*self.dt
 			ans.append(T)
 		self.data = np.array(ans)
@@ -63,7 +63,7 @@ class heatequation1D():
 room_temp = 0
 T0 = [40, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 20]
 heat_source_idxs = set([0, 2, 11])
-heat_eqn_inst1_2 = heatequation1D_2(L=0.1, T0=T0, room_temp=0 hsi=heat_source_idxs, dx=0.01, alpha=0.0001, t_final=100, dt=0.1)
+heat_eqn_inst1_2 = heatequation1D(L=0.1, T0=T0, room_temp=0, hsi=heat_source_idxs, dx=0.01, alpha=0.0001, t_final=100, dt=0.1)
 heat_eqn_inst1_y1_2 = heat_eqn_inst1_2.generate_data()
 
 

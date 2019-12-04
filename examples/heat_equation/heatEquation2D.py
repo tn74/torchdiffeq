@@ -40,6 +40,12 @@ class heatequation2D():
                 if p2 < r2:
                     self.u0[i,j] = self.Thot
 
+    def customInitialization(self, heatIndexSet):
+        for i in range(self.nx):
+            for j in range(self.ny):
+                if (i,j) in heatIndexMap:
+                    self.u0[i,j] = heatIndexMap[(i,j)]
+    
     def do_timestep(self,u0, u):
         # Propagate with forward-difference in time, central-difference in space
         u[1:-1, 1:-1] = u0[1:-1, 1:-1] + self.D * self.dt * (
