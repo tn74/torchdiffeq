@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.pyplot as plt
+import random
 
 
 class heatequation1D():
@@ -31,7 +32,6 @@ class heatequation1D():
 		return self.alpha*(-(t1-t0)/self.dx**2 + (t2 - t1)/self.dx**2)
 
 	def generate_data(self):
-		print(self.n)
 		ans = []
 		self.x = np.linspace(self.dx/2, self.L-self.dx/2, self.n)
 		t = np.arange(0, self.t_final, self.dt)
@@ -39,7 +39,7 @@ class heatequation1D():
 		ans.append(T)
 		for j in range(1, len(t)):
 			dTdt = np.zeros((2,self.n))
-			for i in range(0,self.n):
+			for i in range(self.n-1):
 				# If rod's position is heat-source, temperature is constant.
 				if (self.T0[1][i] == 1):
 					dTdt[0][i] = 0
@@ -57,9 +57,33 @@ class heatequation1D():
 		self.data = np.array(ans)
 		return self.data
 
-T0 = [[40, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 20], [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
-heat_eqn_inst1_2 = heatequation1D(L=0.1, T0=T0, dx=0.01, alpha=0.0001, t_final=100, dt=0.1)
-heat_eqn_inst1_y1_2 = heat_eqn_inst1_2.generate_data()
+# T0 = [[40, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 20], [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
+# heat_eqn_inst1_2 = heatequation1D(L=0.1, T0=T0, dx=0.01, alpha=0.0001, t_final=100, dt=0.1)
+# heat_eqn_inst1_y1_2 = heat_eqn_inst1_2.generate_data()
+
+
+def generate_truth_sampler_he1D(rod_size=12, num_init_states=100, L=0.1, dx=0.01, alpha=0.0001, t_final=100, dt=0.1):
+	ans = []
+	for i in range(num_init_states):
+		T0 = np.zeros((2,rod_size))
+		numHeatSources = random.randint(0,int(rod_size/3)) + 1
+		heatSourceIndexes = np.random.choice(np.arange(0,rod_size), numHeatSources, replace=False)
+		for index in np.nditer(heatSourceIndexes):
+			T0[1][index] = 1
+		heatValues = np.random.uniform(low=0,high=273, size=rod_size)
+		heatequation1D_obj = heatequation1D(L=L, T0=T0, dx=dx, alpha=alpha, t_final=t_final, dt=dt)
+		data = heatequation1D_obj.generate_data()
+		ans.append(data)
+	res = np.stack(ans)
+	return res
+
+print(np.shape(generate_truth_sampler_he1D(rod_size=12, num_init_states=100)))
+
+
+
+
+
+
 
 
 
