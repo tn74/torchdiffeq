@@ -34,15 +34,17 @@ def heat_equation_pde_one_dim(L, n, T0, left_bound, right_bound, dx, alpha, t_fi
   ret = ret.reshape(1, len(t), 1, len(x) + 2).type(torch.FloatTensor)
   return ret
 
+
 class heatequation1D():
 	data = None
-	def __init__(self, L, hsi, T0, room_temp, dx, alpha, t_final, dt):
+	def __init__(self, L=0.1, hsi=set([0,2]), T0=[40,0,30], room_temp=3, dx=0.01, alpha=0.0001, t_final=50, dt=0.1):
 		"""
         Construct a new 'headequation1D' object.
 
         :param L: Length of rod
         :param hsi: the indexes of the heat sources on the rod.
         :param T0: Initial temperatures.
+        :param room_temp: Room temperature.
         :param dx: Distance between two discrete points on rod.
         :param alpha: Temperature transfer constant of rod (Based on material)
         :param t_final: Final time
@@ -50,7 +52,7 @@ class heatequation1D():
         :return: returns nothing
         """
 		self.L = L
-		self.hsi = heat_source_idxs
+		self.hsi = hsi
 		self.T0 = T0
 		self.room_temp = 0
 		self.dx = dx
@@ -82,8 +84,8 @@ class heatequation1D():
 			if 0 not in self.hsi:
 				dTdt[0] = self.singleDimDelta(self.room_temp, T[0], T[1])
 			# If right bound of rod isn't heat source, use room temperature as right bound.
-			if n-1 not in self.hsi:
-				dTdt[n-1] = self.singleDimDelta(T[n-2], T[n-1], self.room_temp)
+			if self.n-1 not in self.hsi:
+				dTdt[self.n-1] = self.singleDimDelta(T[self.n-2], T[self.n-1], self.room_temp)
 			T = T + dTdt*self.dt
 			ans.append(T)
 		self.data = np.array(ans)
@@ -100,8 +102,6 @@ class TruthSampler():
     self.dataset = dataset
     sz = dataset.size()
     self.sample_count, self.sim_size, self.dp_size = sz[0], sz[1], sz[2:]
-    if len(self.dp_size) == 1:
-      self.dp_size = tuple([1] + list(self.dp_size))
     self.t = t
     self.batch_time = batch_time
     self.batch_size = batch_size
