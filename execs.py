@@ -40,3 +40,10 @@ def train(model, train_loader, optimizer, ode_propogator=odeint,
                 print('Iter {:04d} | Total Loss {:.6f}'.format(itr, loss.item()))
                 ii += 1
     return losses
+
+
+def get_model_evolution(model, y0, t=None, dt=0.01, t_final=50, ode_propogator=odeint):
+    t = t or torch.linspace(0, t_final, int(t_final/dt + 1))
+    prop =  ode_propogator(model, y0, t)
+    prop = prop.transpose(0, 1).detach()
+    return prop
