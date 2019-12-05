@@ -49,7 +49,7 @@ class heatequation1D():
 			# If left bound of rod isn't heat source, use room temperature as left bound.
 			if self.T0[1][0] == 0:
 				dTdt[0][0] = self.singleDimDelta(self.room_temp, T[0][0], T[0][1])
-			# If right bound of rod isn't heat source, use room temperature as right bound. 
+			# If right bound of rod isn't heat source, use room temperature as right bound.
 			if self.T0[1][self.n-1] == 0:
 				dTdt[0][self.n-1] = self.singleDimDelta(T[0][self.n-2], T[0][self.n-1], self.room_temp)
 			T = T + dTdt*self.dt
@@ -77,7 +77,8 @@ def generate_truth_sampler_he1D(rod_size=12, num_init_states=100, L=0.1, dx=0.01
 	res = np.stack(ans)
 	return res
 
-print(np.shape(generate_truth_sampler_he1D(rod_size=12, num_init_states=100)))
+if __name__ == "__main__":
+    print(np.shape(generate_truth_sampler_he1D(rod_size=12, num_init_states=100)))
 
 
 
