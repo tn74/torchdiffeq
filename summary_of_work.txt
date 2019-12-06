@@ -1,0 +1,37 @@
+Documentation:
+
+Techniques used to model 1D Heat Equation: 
+
+We started off by attempting to model the Spiral function. With the use of the built in ODE Solver and a fully connected model, we were able to train this function accuracy. The process of modelling the Spiral equation showed us the unique methology that the NeuralODE paper proposed and how it differed from a basic RNN. We learned that the NeuralODE is trying to model the vector field, and the ODESolver is using this field to model the function with respect to time wheras a traditional Neural network models the sequence of inputs for each timestep without considering this gradient. 
+
+
+
+1D HEAT EQUATION WITH 2 HEATSOURCES AND THE END OF THE ROD 
+
+	We tested a few different loss functions on the 1D Heat Equation to understand how it would impact the model. The L1 norm tends to have large gradients in certain examples near endpoints but close on average. The L1 norm will look like an L. This aligns with L1 norm not giving priority to larger errors. After testing the L2 norm, our losses decreased significantly and we were able to model the 1D Heat Equation with 2 heat sources at the end successfully. 
+
+We explored several techniques to properly model the 1D heat equation. This section will describe our workflow and our journey to successfully model a robust this differential equation. 
+
+Tools we built to speed up our experimentation process. 
+1. Spiral Model
+	a) Tested with 2x50x2 Fully connect layers and successfully modelled the function. Used ODE Solver.
+2. 1D Heat Equation Model
+	a) Types of rods
+		i) Heat sources at left and right end of rod.
+		ii) Heat sources at many locations on rod.
+	b) Functions that generates initial states of 1D Heat Equation.
+		i) randomly initialize temperatures on the rod.
+		ii) scatters random # of heat sources on the rod. 
+	c) We modelled and tested the state of rod in the following ways.
+		i) append room temperature heat source into rod state [WORKED BETTER THAN ii]
+		ii) exclude room temperature heat source into rod state. 
+		iii) 2d array with heat source boolean and temperature. 
+	d) Created a function that generates data for several random initial states. 
+	e) How did we try to model the 1D Heat Equation?
+		1. Heat sources in left and right end of the rod. [Poor results] 
+		2. Heat sources in left and right end of the rod added to input data vector. [Successful model of 1 initial state of Heat source]
+3. 2D Heat Equation Model
+	a) Vectorized heat propogation equation. Increased speed of data generation. 
+	b) Created functions to initialize heat sources and temperatures on 2d metal. 
+	c) 
+4. 
