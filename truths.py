@@ -206,6 +206,47 @@ def generate_truth_sampler_he1D(rod_size=12, num_init_states=100, L=0.1, dx=0.01
 	res = np.stack(ans)
 	return res
 
+
+def one_dim_heat_equation_pde(L, n, T0, left_bound, right_bound, dx, alpha, t_final, dt):
+  ans = []
+  x = np.linspace(dx/2, L-dx/2, n)
+  T = np.ones(n) * T0
+  ans.append(T)
+  dTdt = np.empty(n)
+  t = np.arange(0, t_final, dt)
+  for j in range(1, len(t)):
+    plt.clf()
+    for i in range(1,n-1):
+      dTdt[i] = alpha*(-(T[i] - T[i-1])/dx**2  + (T[i+1]-T[i])/dx**2)
+      dTdt[0] = alpha*(-(T[0] - left_bound)/dx**2  + (T[1]-T[0])/dx**2)
+      dTdt[n-1] = alpha*(-(T[n-1] - T[n-2])/dx**2  + (right_bound-T[n-1])/dx**2)
+    T = T + dTdt*dt
+    ans.append(T)
+  a = np.concatenate(
+      [left_bound * np.ones((len(ans), 1)), np.array(ans),
+       right_bound * np.ones((len(ans), 1))], axis=1)
+  ret = torch.from_numpy(a)
+  ret = ret.reshape(1, len(t), 1, len(x) + 2).type(torch.FloatTensor)
+  return ret
+
+def generate_one_dim_heat_dataset(samples=20, L=0.1, n=10, T0=0, dx=0.01, alpha=0.0001, t_final=30, dt=0.1):
+    bounds = np.random.uniform(low=0, high=273, size=(samples, 2))
+    samples = []
+    for low, high in bounds:
+        samples.append(one_dim_heat_equation_pde(L, n, T0, low, high, dx, alpha, t_final, dt))
+    return torch.cat(samples)
+
+# torch_y_true = heat_equation_pde(L=0.1, n=10, T0=0, left_bound=40, right_bound=20, dx=0.01, alpha=0.0001, t_final=30, dt=0.1)
+# print(torch_y_true.size())
+# print(torch_y_true)
+# extra = torch.ones_like(torch_y_true)
+# extra[:, :, :, 0] = 0
+# extra[:, :, :, -1] = 0
+# dp = torch.cat([torch_y_true, extra], 2)
+# dset = torch.cat([dp for i in range(100)], 0)
+
+
+
 class TruthSampler():
   def __init__(self, t, dataset, batch_time, batch_size):
     """ Sample dataset train method provided in teamtools

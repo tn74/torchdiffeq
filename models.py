@@ -43,18 +43,16 @@ class DenseLayers1DimODE(nn.Module):
         return y
 
 class ConvLayers1DimODE(nn.Module):
-    def __init__(self, state_shape):
+    def __init__(self, state_shape, kernels=2):
         super().__init__()
         self.state_shape = state_shape
         self.one_d_length = self.state_shape[1]
         self.total_inputs = np.prod(state_shape)
-        kernels = 2
         self.conv = nn.Conv2d(1, kernels, 3, padding=1) # 1 input plane, 2 output planes, 3 size kernel, 1 size padding to keep the output planes same size as input
         testvec = torch.randn(size=state_shape).reshape(1, 1, *state_shape)
         conv_out  = np.prod(self.conv(testvec).size())
         self.net = nn.Sequential(
             nn.Linear(conv_out, 2 * self.total_inputs),
-            nn.Linear(2 * self.total_inputs, 2 * self.total_inputs),
             nn.Linear(2 * self.total_inputs, self.total_inputs),
         )
 
