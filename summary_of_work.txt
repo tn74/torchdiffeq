@@ -2,14 +2,15 @@ Documentation:
 
 Techniques used to model 1D Heat Equation: 
 
-We started off by attempting to model a very simple function. The Spiral function was modelled with a fully connected layer. With the use of the built in ODE Solver and a fully connected model, we were able to train this function accuracy. The process of modelling the Spiral equation showed us the unique methology that the NeuralODE paper proposed and how it differed from a basic RNN. We learned that the NeuralODE is trying to model the vector field, and the ODESolver is using this field to model the function with respect to time wheras a traditional Neural network models the sequence of inputs for each timestep without considering this gradient. 
+We started off by attempting to model the Spiral function. With the use of the built in ODE Solver and a fully connected model, we were able to train this function accuracy. The process of modelling the Spiral equation showed us the unique methology that the NeuralODE paper proposed and how it differed from a basic RNN. We learned that the NeuralODE is trying to model the vector field, and the ODESolver is using this field to model the function with respect to time wheras a traditional Neural network models the sequence of inputs for each timestep without considering this gradient. 
+
+
+
+1D HEAT EQUATION WITH 2 HEATSOURCES AND THE END OF THE ROD 
+
+	We tested a few different loss functions on the 1D Heat Equation to understand how it would impact the model. The L1 norm tends to have large gradients in certain examples near endpoints but close on average. The L1 norm will look like an L. This aligns with L1 norm not giving priority to larger errors. After testing the L2 norm, our losses decreased significantly and we were able to model the 1D Heat Equation with 2 heat sources at the end successfully. 
 
 We explored several techniques to properly model the 1D heat equation. This section will describe our workflow and our journey to successfully model a robust this differential equation. 
-
-
-W
-
-
 
 Tools we built to speed up our experimentation process. 
 1. Spiral Model
